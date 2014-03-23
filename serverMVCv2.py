@@ -1,7 +1,7 @@
 __author__ = 'pahaz'
 
 from wsgiref.simple_server import make_server
-import appMVCv2 as app
+import appMVCv3 as app
 
 # Instantiate the WSGI server.
 # It will receive the request, pass it to the application
